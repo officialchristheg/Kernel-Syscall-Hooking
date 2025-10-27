@@ -1,4 +1,4 @@
-# Kernel-Syscall-Hook
+# Kernel-Syscall-Hooking
 Syscall hooking project for Windows (22H2–25H2).  
 
 ## Features
